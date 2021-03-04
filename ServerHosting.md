@@ -199,3 +199,6 @@ Hosting a publicly-accessible internet server requires an extra step compared to
 One way to think of it is that when there are multiple devices (e.g. computers and phones) connected to the LAN, the outside internet does not know which device is the Unturned server. In this case port forwarding specifies which LAN device is the host.
 
 For port ranges and other details: [Port Forwarding](PortForwarding.md)
+
+There is a way to host servers without port forwarding, using a Program called Ngrok.
+For a detailed explanation and walkthrough: [Ngrok](Ngrok.md)
